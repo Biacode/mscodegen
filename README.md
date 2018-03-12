@@ -1,8 +1,6 @@
 # mscodegen
 Generates Micro service common codes.
 
-# Template variables
-
 -----------------------------------------------------------------------------------
 | Variable name        | Description                      | Example               |
 |:---------------------|:---------------------------------|:----------------------|
@@ -12,5 +10,3 @@ Generates Micro service common codes.
 | class.created.date   | Class description - created date | Mar 2018              |
 | class.created.time   | Class description - created time | 16:3:57 PM            |
 -----------------------------------------------------------------------------------
-
-**project.base.package**
