@@ -5,7 +5,7 @@ Generates Micro service common codes.
 
 -----------------------------------------------------------------------------------
 | Variable name        | Description                      | Example               |
-|:--------------------:|:--------------------------------:|:---------------------:|
+|:---------------------|:---------------------------------|:----------------------|
 | project.base.package | The base package                 | org.biacode.mscodegen |
 | class.package.name   | Usually lowercase class name     | user                  |
 | class.name           | The generated class name         | User                  |
