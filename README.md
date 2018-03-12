@@ -1,7 +1,6 @@
 # mscodegen
 Generates Micro service common codes.
 
------------------------------------------------------------------------------------
 | Variable name        | Description                      | Example               |
 |:---------------------|:---------------------------------|:----------------------|
 | project.base.package | The base package                 | org.biacode.mscodegen |
