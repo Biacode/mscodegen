@@ -1,5 +1,5 @@
 # mscodegen
-Generates Micro service common codes.
+Generates Microservice common codes.
 
 | Variable name        | Description                      | Example               |
 |:---------------------|:---------------------------------|:----------------------|
