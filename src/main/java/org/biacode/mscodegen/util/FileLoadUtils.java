@@ -20,8 +20,10 @@ public final class FileLoadUtils {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(FileLoadUtils.class);
 
+    //region Constructors
     private FileLoadUtils() {
     }
+    //endregion
 
     //region Public API
     public static String loadFileSource(final String file) {
